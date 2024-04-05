@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1",DAZN F1 1080
-http://192.168.2.250:8000/pid/5789ca155323664edd293b848606688edf803f4d/stream.mp4/live?channel=1&client=1
-#EXTINF:-1 tvg-chno="2",DAZN F1 HD
+#EXTINF:-1 DAZN F1 1080
+http://192.168.2.250:8000/pid/5789ca155323664edd293b848606688edf803f4d/stream.mp4
+#EXTINF:-1 DAZN F1 HD
 http://192.168.2.250:8000/pid/9dad717d99b29a05672166258a77c25b57713dd5/stream.mp4
-#EXTINF:-1 tvg-name="DAZN F1",DAZN F1 720
+#EXTINF:-1 DAZN F1 720
 http://192.168.2.250:8000/pid/e1fcad9de0c782c157fde6377805c58297ab65c2/stream.mp4
-#EXTINF:-1 tvg-name="LaLiga TV Bar",LaLiga TV Bar
+#EXTINF:-1 LaLiga TV Bar
 http://192.168.2.250:8000/pid/aa82e7d4f03061f2144a2f4be22f2e2210d42280/stream.mp4
-#EXTINF:-1 tvg-name="DAZN LaLiga",DAZN LaLiga
+#EXTINF:-1 DAZN LaLiga
 http://192.168.2.250:8000/pid/1960a9be8ae9e8c755330218eac4c5805466290a/stream.mp4
-#EXTINF:-1 tvg-name="DAZN LaLiga 2",DAZN LaLiga 2
+#EXTINF:-1 DAZN LaLiga 2
 http://192.168.2.250:8000/pid/e33e666c393ef04ebe99a9b92135d2e0b48c4d10/stream.mp4
-#EXTINF:-1 tvg-name="M+ Liga de Campeones",M+ Liga de Campeones
+#EXTINF:-1 M+ Liga de Campeones
 http://192.168.2.250:8000/pid/f096a64dd756a6d549aa7b12ee9acf7eee27e833/stream.mp4
-#EXTINF:-1 tvg-name="M+ Liga de Campeones 2",M+ Liga de Campeones 2
+#EXTINF:-1 M+ Liga de Campeones 2
 http://192.168.2.250:8000/pid/fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393/stream.mp4
-#EXTINF:-1 tvg-name="M+ Liga de Campeones 3",M+ Liga de Campeones 3
+#EXTINF:-1 M+ Liga de Campeones 3
 http://192.168.2.250:8000/pid/ad372cba73aa0ece207a79532b3e30b731136bb2/stream.mp4
-#EXTINF:-1 tvg-name="DAZN LaLiga",DAZN LaLiga
+#EXTINF:-1 DAZN LaLiga
 http://192.168.2.250:8000/pid/a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914/stream.mp4
-#EXTINF:-1 tvg-name="M+ LaLiga TV",M+ LaLiga TV
+#EXTINF:-1 M+ LaLiga TV
 http://192.168.2.250:8000/pid/f031f5728b32f6089dda28edebe990cf198108d8/stream.mp4
-#EXTINF:-1 tvg-name="M+ LaLiga TV",M+ LaLiga TV
+#EXTINF:-1 M+ LaLiga TV
 http://192.168.2.250:8000/pid/1969c27658d4c8333ab2c0670802546121a774a5/stream.mp4
-#EXTINF:-1 tvg-name="M+ LaLiga TV 2",M+ LaLiga TV 2
+#EXTINF:-1 M+ LaLiga TV 2
 http://192.168.2.250:8000/pid/80126b240f3e4e004754fd8f8103e857ab2556a0/stream.mp4
-#EXTINF:-1 tvg-name="EuroSport 1",EuroSport 1
+#EXTINF:-1 EuroSport 1
 http://192.168.2.250:8000/pid/5e4cd48c79f991fcbee2de8b9d30c4b16de3b952/stream.mp4
-#EXTINF:-1 tvg-name="EuroSport 2",EuroSport 2
+#EXTINF:-1 EuroSport 2
 http://192.168.2.250:8000/pid/c373da9e901d414b7384e671112e64d5a2310c29/stream.mp4
-#EXTINF:-1 tvg-name="M+ Golf",M+ Golf
+#EXTINF:-1 M+ Golf
 http://192.168.2.250:8000/pid/4f945b0ba4206fa2676b61e9eaa465ac3dcc8122/stream.mp4
-#EXTINF:-1 tvg-name="DAZN 1",DAZN 1
+#EXTINF:-1 DAZN 1
 http://192.168.2.250:8000/pid/8ca07071b39185431f8e940ec98d1add9e561639/stream.mp4
-#EXTINF:-1 tvg-name="DAZN 2",DAZN 2
+#EXTINF:-1 DAZN 2
 http://192.168.2.250:8000/pid/60dbeeb299ec04bf02bc7426d827547599d3d9fc/stream.mp4
-#EXTINF:-1 tvg-name="DAZN 3",DAZN 3
+#EXTINF:-1 DAZN 3
 http://192.168.2.250:8000/pid/a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97/stream.mp4
-#EXTINF:-1 tvg-name="DAZN 4",DAZN 4
+#EXTINF:-1 DAZN 4
 http://192.168.2.250:8000/pid/2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd/stream.mp4
