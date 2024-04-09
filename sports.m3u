@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DAZN F1 4K",DAZN F1 UHD
+#EXTINF:-1 tvg-name="DAZN F1 4K",DAZN F1 4K
 http://192.168.2.250:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 tvg-name="DAZN F1",DAZN F1 1080
 http://192.168.2.250:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
