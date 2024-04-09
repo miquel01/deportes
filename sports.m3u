@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DAZN F1 4K",DAZN F1 UHD
+http://192.168.2.250:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 tvg-name="DAZN F1",DAZN F1 1080
 http://192.168.2.250:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-name="DAZN F1",DAZN F1 HD
@@ -21,6 +23,8 @@ http://192.168.2.250:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a
 http://192.168.2.250:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-name="DAZN LaLiga",DAZN LaLiga
 http://192.168.2.250:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 tvg-name="M+ LaLiga TV 4K",M+ LaLiga TV UHD
+http://192.168.2.250:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 tvg-name="M+ LaLiga TV",M+ LaLiga TV
 http://192.168.2.250:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-name="M+ LaLiga TV",M+ LaLiga TV
@@ -41,3 +45,5 @@ http://192.168.2.250:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d
 http://192.168.2.250:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-name="DAZN 4",DAZN 4
 http://192.168.2.250:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 tvg-name="Eleven Sports 4K",Eleven Sports UHD
+http://192.168.2.250:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
