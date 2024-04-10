@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="La 1",La 1
+http://192.168.2.250:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="À Punt",À Punt
+https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="DAZN F1 4K",DAZN F1 4K
 http://192.168.2.250:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 tvg-name="DAZN F1",DAZN F1
@@ -47,5 +51,3 @@ http://192.168.2.250:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16db
 http://192.168.2.250:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-name="Eleven Sports 4K",Eleven Sports 1 POR
 http://192.168.2.250:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-name="La 1",La 1
-http://192.168.2.250:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
