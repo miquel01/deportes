@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DAZN F1 4K",DAZN F1 4K
 http://192.168.2.250:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 tvg-name="DAZN F1",DAZN F1 1080
+#EXTINF:-1 tvg-name="DAZN F1",DAZN F1
 http://192.168.2.250:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-name="DAZN F1",DAZN F1 HD
+#EXTINF:-1 tvg-name="DAZN F1",DAZN F1
 http://192.168.2.250:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-name="DAZN F1",DAZN F1 720
 http://192.168.2.250:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
@@ -45,7 +45,7 @@ http://192.168.2.250:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d
 http://192.168.2.250:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-name="DAZN 4",DAZN 4
 http://192.168.2.250:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 tvg-name="Eleven Sports 4K",Eleven Sports UHD
+#EXTINF:-1 tvg-name="Eleven Sports 4K",Eleven Sports 1 POR
 http://192.168.2.250:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-name="La 1",La 1
 http://192.168.2.250:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
