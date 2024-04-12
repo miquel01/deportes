@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-name="La 1",La 1
 http://192.168.2.250:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF: -1, Telecinco
-#EXTVLCOPT:http-referrer="mitele"
 https://directos.mitele.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1712950448~exp=1712950628~acl=/*~hmac=ad97c80e75a9ec8881a5fbfbb7f7b31d68e692a120e8de99cd19ead669711178
 #EXTINF:-1 tvg-name="À Punt",À Punt
 https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
