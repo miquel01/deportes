@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF: -1, telecinco
+#EXTVLCOPT:http-referrer="mitele"
+https://directos.mitele.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1712950448~exp=1712950628~acl=/*~hmac=ad97c80e75a9ec8881a5fbfbb7f7b31d68e692a120e8de99cd19ead669711178
