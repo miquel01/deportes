@@ -39,7 +39,7 @@ http://192.168.2.250:6878/ace/getstream?id=8edb264520569b2280c5e86b2dc734e120032
 http://192.168.2.250:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
 
 #EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png",M+ Copa del Rey
-http://192.168.2.250:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+http://192.168.2.250:6878/ace/getstream?id=8c28fef4670a7033694cf0986ba99ba48bfcbb9f
 
 #EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png",M+ Copa del Rey 2
 http://192.168.2.250:6878/ace/getstream?id=f785c45f32379c3b0e332c20bbd05a7fb311e8d1
