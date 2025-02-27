@@ -59,7 +59,7 @@ http://192.168.2.250:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
 http://192.168.2.250:6878/ace/getstream?id=417988354fa348ac80ffcbed58f55c50b72cdbf0
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opt2
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opt1
 http://192.168.2.250:6878/ace/getstream?id=61c1f3cf1d86a2789e985818fe2bd398048d047f
 
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="https://support.formula1.com/resource/1673436917000/F1LogoMicroWhite",F1 TV
