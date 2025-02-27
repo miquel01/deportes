@@ -56,5 +56,14 @@ http://192.168.2.250:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe63
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M+ Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png",M+ Deportes
 http://192.168.2.250:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png",DAZN F1
+http://192.168.2.250:6878/ace/getstream?id=417988354fa348ac80ffcbed58f55c50b72cdbf0
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png",DAZN F1 opt2
+http://192.168.2.250:6878/ace/getstream?id=61c1f3cf1d86a2789e985818fe2bd398048d047f
+
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="https://support.formula1.com/resource/1673436917000/F1LogoMicroWhite",F1 TV
+http://192.168.2.250:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png",Eurosport 1
-http://192.168.2.250:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+http://192.168.2.250:6878/ace/getstream?id=413cb4d79842a7a2da420e9f59b00728992730b2
