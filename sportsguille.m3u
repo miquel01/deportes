@@ -2,8 +2,11 @@
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="M+ LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png",M+ LaLiga TV
 http://192.168.2.250:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="M+ LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png",M+ LaLiga TV 2
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="M+ LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png",M+ LaLiga TV opt2
 http://192.168.2.250:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="M+ LaLiga TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png",M+ LaLiga TV 2
+http://192.168.2.250:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png",LaLiga TV BAR
 http://192.168.2.250:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
