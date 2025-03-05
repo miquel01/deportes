@@ -43,6 +43,9 @@ http://192.168.2.250:6878/ace/getstream?id=38d0b187d3cf396695bbb2166a09f57736276
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones opt6
 http://192.168.2.250:6878/ace/getstream?id=8edb264520569b2280c5e86b2dc734e120032903
 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones opt7
+http://192.168.2.250:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2
 http://192.168.2.250:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
 
