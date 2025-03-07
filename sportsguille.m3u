@@ -67,8 +67,11 @@ http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opt2
 http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://support.formula1.com/resource/1673436917000/F1LogoMicroWhite",F1 TV
-http://127.0.0.1:6878/ace/getstream?id=0b7bd581b0eae65396b96a4efe4491a2dd1ba088
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://static.motor.es/f1/fichas/contenido/fernando-alonso/min280x180/fernando-alonso2024_1708675566.jpg",F1 TV Alonso ONBOARD
+http://127.0.0.1:6878/ace/getstream?id=adab1ca1447108f5dcee688d709bdd372a002c4b
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg",F1 TV Sainz ONBOARD
+http://127.0.0.1:6878/ace/getstream?id=ff6c8b62faf8b5130bea01fe2aa14e7bed8b3950
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png",Eurosport 1
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
