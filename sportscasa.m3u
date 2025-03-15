@@ -44,16 +44,16 @@ http://192.168.2.220:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443
 http://192.168.2.220:6878/ace/getstream?id=deb8972491e3817ba2335662d7855d2c2c05a900
 
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png",M+ Copa del Rey
-http://192.168.2.220:6878/ace/getstream?id=8c28fef4670a7033694cf0986ba99ba48bfcbb9f
-
-#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png",M+ Copa del Rey 2
-http://192.168.2.220:6878/ace/getstream?id=f785c45f32379c3b0e332c20bbd05a7fb311e8d1
-
-#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png",M+ Copa del Rey 3 720
 http://192.168.2.220:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png",Movistar Plus+
 http://192.168.2.220:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png",DAZN 1
+http://192.168.2.220:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png",DAZN 2
+http://192.168.2.220:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png",M+ Vamos
 http://192.168.2.220:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
@@ -70,11 +70,11 @@ http://192.168.2.220:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6b
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opt3
 http://192.168.2.220:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
 
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",F1 Eleven Sports 4K
+http://192.168.2.220:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://static.motor.es/f1/fichas/contenido/fernando-alonso/min280x180/fernando-alonso2024_1708675566.jpg",F1 TV Alonso ONBOARD
 http://192.168.2.220:6878/ace/getstream?id=adab1ca1447108f5dcee688d709bdd372a002c4b
-
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="FORMULA 1" tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg",F1 TV Sainz ONBOARD
-http://192.168.2.220:6878/ace/getstream?id=ff6c8b62faf8b5130bea01fe2aa14e7bed8b3950
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png",Eurosport 1
 http://192.168.2.220:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
