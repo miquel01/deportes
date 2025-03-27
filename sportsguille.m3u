@@ -23,7 +23,7 @@ http://192.168.2.220:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b
 http://192.168.2.220:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LaLiga 2
-http://192.168.2.220:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+http://192.168.2.220:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones
 http://192.168.2.220:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
