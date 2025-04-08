@@ -29,13 +29,13 @@ http://192.168.2.220:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be
 http://192.168.2.220:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones opt2
-http://192.168.2.220:6878/ace/getstream?id=05057e832dd1530c7d5e8b0857fee6826243a243
+http://192.168.2.220:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones opt3
-http://192.168.2.220:6878/ace/getstream?id=840f68a0dc6e27c2927a16b4d42b9401ac50270b
+http://192.168.2.220:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones opt4
-http://192.168.2.220:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="M+ Liga de Campeones UHD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones UHD
+http://192.168.2.220:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2
 http://192.168.2.220:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
