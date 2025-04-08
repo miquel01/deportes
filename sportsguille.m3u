@@ -35,7 +35,7 @@ http://192.168.2.220:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f
 http://192.168.2.220:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones UHD
-http://192.168.2.220:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
+http://192.168.2.220:6878/ace/getstream?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2
 http://192.168.2.220:6878/ace/getstream?id=c070cdb701fc46bb79d17568d99fc64620443d63
